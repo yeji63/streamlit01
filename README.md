@@ -5,7 +5,7 @@
 # local repository
 # 내 github 사용자 정보를 현재 컴퓨터에 로그인
 
-# 로컬 레조지토리 환경 설정
+# 로컬 레포지토리 환경 설정
 # git init # 지켜봐줘~
 # git remote add origin <원격 레포지토리 주소>
 # git branch -M main # 기본 브랜치 설정
